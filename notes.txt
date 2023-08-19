@@ -1,0 +1,1 @@
+Przełączenie na mój environment: $ source ~/.CloudLearning/bin/activate
