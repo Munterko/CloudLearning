@@ -1,2 +1,8 @@
+SSH:
+1 - wygenerowanie SHH Key: $ ssh-keygen -t rsa
+# klikamy 4 razy enter; kopiujemy tekts po "Your public key has been saved in [X]"  X - ścieżka public key
+2 -  pokazanie zapisanego klucza publicznego: $ cat [X]
+# w GitHub>Settings>SSH Key>New SHH Key. Wklejamy klucz "ssh-rsa ..."
+
 Stworzenie environment: $ python3 -m venv ~/.CloudLearning
 Przełączenie na mój environment: $ source ~/.CloudLearning/bin/activate
