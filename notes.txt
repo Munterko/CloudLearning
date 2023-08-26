@@ -1,1 +1,2 @@
+Stworzenie environment: $ python3 -m venv ~/.CloudLearning
 Przełączenie na mój environment: $ source ~/.CloudLearning/bin/activate
